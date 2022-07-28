@@ -7,7 +7,7 @@
 # If  is even and greater than , print Not Weird
 
 
-n = int(input('Enter a number: '))
+n = int(input())
 
 if n % 2 != 0:
     print('Weird')
